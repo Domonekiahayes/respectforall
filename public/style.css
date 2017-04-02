@@ -1,0 +1,101 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+  margin: 25px;
+  background-color:#071013;
+  color: white;
+}
+
+h1 {
+text-align: center;
+  font-weight: bold;
+  color:white;
+  
+}
+
+.nav-wrapper{
+  background-color:#454E91
+  
+
+}
+.nav-wrapper a {
+  color:#FFFFFF;
+}
+
+.page { 
+    font-weight: bold;
+  color: #D62839;
+  text-align: center;
+}
+
+.pic{
+ width:100%;
+}
+  
+#map{
+  text-align:center;
+}
+text{
+  color:white;
+}
+h2{
+  color: white;
+}
+.blockquote {
+  color: white;
+}
+
+#color_change {
+  color: white;
+}
+li{
+  color:white;
+}
+.myth li::before {
+  content: "• ";
+  color: white; /* or whatever color you prefer */
+}
+.fact li::before {
+  content: "• ";
+  color: white; /* or whatever color you prefer */
+}
+
+p{
+  color:white;
+}
+
+#more_info{
+  display:none;
+}
+#colorchange{
+  color:white; 
+}
+.card {
+ width:50%;
+height: 50%;
+  margin:0 auto;
+  color: black;
+}
+
+.help_link>a{
+  color: white;
+  font-size: 140%;
+}
+.help_link>a:hover{
+  text-decoration: underline;
+}
+.misconception{
+  text-align: center;
+}
+.misconception{
+  font-size: 125%;
+}
+.bold{
+  font-size:165%;
+}
+.big{
+  font-size:175%;
+}
+.causes{
+  text-align: center;
+  margin: 50px 0;
+}
